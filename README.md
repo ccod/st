@@ -4,7 +4,19 @@ This is my fork of the project. customizations are on ccod_patches branch
 
 # Requirements
 * In order to build st you need the Xlib header files.
-* installation of the Fira Code font.
+* Fira Code font.
+
+# Patches included
+* ligatures
+* keyboard select
+* scrollback
+
+You can find the patches included here: [here](https://st.suckless.org/patches/)
+
+# Theme
+
+Based on [vim-colors-pencil](https://github.com/reedes/vim-colors-pencil)
+* light variant
 
 # Installation
 
